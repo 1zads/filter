@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "fych.feiyue.lol",
+        "emby.bangumi.ca",
+        "cf.imetyou.top",
+        "emby.jingzhe.pro",
+        "eb.zzm.li"
+      ],
+      "outbound": "proxy"
+    }
+  ]
+}
