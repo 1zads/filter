@@ -1,6 +1,15 @@
-#!name=emby分流
-DOMAIN-SUFFIX, fych.feiyue.lol
-DOMAIN-SUFFIX, emby.bangumi.ca
-DOMAIN-SUFFIX, cf.imetyou.top
-DOMAIN-SUFFIX, emby.jingzhe.pro
-DOMAIN-SUFFIX, eb.zzm.li
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "fych.feiyue.lol",
+        "emby.bangumi.ca",
+        "cf.imetyou.top",
+        "emby.jingzhe.pro",
+        "eb.zzm.li"
+      ],
+      "outbound": "proxy"
+    }
+  ]
+}
