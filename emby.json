@@ -3,20 +3,20 @@
   "rules": [
     {
       "domain_suffix": [
-    "fych.feiyue.lol",
-    "feiyue.lol",
-    "emby.bangumi.ca",
-    "bangumi.ca",
-    "cf.imetyou.top",
-    "imetyou.top",
-    "emby.jingzhe.pro",
-    "jingzhe.pro",
-    "eb.zzm.li",
-    "zzm.li",
-    "od.emby.fan",
-    "emby.fan",
-    "genshin.bilibili.uk",
-    "bilibili.uk"
+        "fych.feiyue.lol", 
+        "feiyue.lol",
+        "emby.bangumi.ca",
+        "bangumi.ca",
+        "cf.imetyou.top",
+        "imetyou.top"
+        "emby.jingzhe.pro",
+        "jingzhe.pro",
+        "eb.zzm.li"
+        "zzm.li",
+        "od.emby.fan",
+        "emby.fan",
+        "genshin.bilibili.uk",
+        "bilibili.uk"
       ],
       "outbound": "proxy"
     }
