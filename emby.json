@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "fych.feiyue.lol", 
+        "fych.feiyue.lol",
         "feiyue.lol",
         "emby.bangumi.ca",
         "bangumi.ca",
@@ -16,8 +16,8 @@
         "od.emby.fan",
         "emby.fan",
         "genshin.bilibili.uk",
-        "bilibili.uk",
-      ]
+        "bilibili.uk"
+      ],
       "outbound": "proxy"
     }
   ]
