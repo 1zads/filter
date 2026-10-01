@@ -1,28 +1,26 @@
 {
-  "route": {
-    "rules": [
-      {
-        "domain_suffix": [
-          "feiyue.lol",
-          "bangumi.ca",
-          "imetyou.top",
-          "jingzhe.pro",
-          "zzm.li",
-          "emby.fan",
-          "biliblili.uk",
-          "bilibili.43992026.xyz",
-          "vipdc.covh.eu.org",
-          "micu.hk",
-          "cf.sfcj.org",
-          "media.emby.pro",
-          "13.yusen.cyou",
-          "aaa.yusen6.ccwu.cc",
-          "emby.yusen.us.ci",
-          "embya.yusen.cyou",
-          "emby.yusen.cc.cd"
-        ],
-        "outbound": "PROXY"
-      }
-    ]
-  }
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "feiyue.lol",
+        "bangumi.ca",
+        "imetyou.top",
+        "jingzhe.pro",
+        "zzm.li",
+        "emby.fan",
+        "biliblili.uk",
+        "bilibili.43992026.xyz",
+        "vipdc.covh.eu.org",
+        "micu.hk",
+        "cf.sfcj.org",
+        "media.emby.pro",
+        "13.yusen.cyou",
+        "aaa.yusen6.ccwu.cc",
+        "emby.yusen.us.ci",
+        "embya.yusen.cyou",
+        "emby.yusen.cc.cd"
+      ]
+    }
+  ]
 }
