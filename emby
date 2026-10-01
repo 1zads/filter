@@ -1,20 +1,18 @@
 #!name=emby分流
-DOMAIN-SUFFIX, fych.feiyue.lol
-DOMAIN-SUFFIX, feiyue.lol
-DOMAIN-SUFFIX, emby.bangumi.ca
-DOMAIN-SUFFIX, bangumi.ca
-DOMAIN-SUFFIX, cf.imetyou.top
-DOMAIN-SUFFIX, imetyou.top
-DOMAIN-SUFFIX, emby.jingzhe.pro
-DOMAIN-SUFFIX, jingzhe.pro
-DOMAIN-SUFFIX, eb.zzm.li
-DOMAIN-SUFFIX, zzm.li
-DOMAIN-SUFFIX, od.emby.fan
-DOMAIN-SUFFIX, emby.fan
-DOMAIN-SUFFIX, genshin.biliblili.uk
-DOMAIN-SUFFIX, biliblili.uk
-DOMAIN-SUFFIX, bilibili.43992026.xyz
-DOMAIN-SUFFIX, vipdc.covh.eu.org
-DOMAIN-SUFFIX, micu.hk
-DOMAIN-SUFFIX, cf.sfcj.org
-DOMAIN-SUFFIX, media.emby.pro
+DOMAIN-SUFFIX,feiyue.lol
+DOMAIN-SUFFIX,bangumi.ca
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,zzm.li
+DOMAIN-SUFFIX,emby.fan
+DOMAIN-SUFFIX,biliblili.uk
+DOMAIN-SUFFIX,bilibili.43992026.xyz
+DOMAIN-SUFFIX,vipdc.covh.eu.org
+DOMAIN-SUFFIX,micu.hk
+DOMAIN-SUFFIX,cf.sfcj.org
+DOMAIN-SUFFIX,media.emby.pro
+DOMAIN-SUFFIX,13.yusen.cyou
+DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
+DOMAIN-SUFFIX,emby.yusen.us.ci
+DOMAIN-SUFFIX,embya.yusen.cyou
+DOMAIN-SUFFIX,emby.yusen.cc.cd
